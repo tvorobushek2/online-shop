@@ -122,7 +122,7 @@
 
 После запуска REST API доступен по адресу:
 
-http://localhost:8080/api/products
+http://localhost:9095/api/products
 
 Для работы с PostgreSQL необходимо настроить подключение к базе данных в конфигурации приложения.
 
